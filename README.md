@@ -3,7 +3,7 @@ Meu portfólio de projetos de Data Science
 
 
 <p align="center">
-  <img src="banner.png" >
+  <img src="banner1.png" >
 </p>
 
 # Juliano Grahl
